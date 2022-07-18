@@ -10,7 +10,6 @@ export default new Vuetify({
         primary: '#EE3B2D',
       },
       dark: {
-        // primary: '#EE3B2D',
         primary: '#EE3B2D',
       },
     },
